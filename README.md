@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codsantiago
 - 👀 I’m interested in learn a litlle more about programation
-- 🌱 I’m currently learning books about developer human and technologies
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about lenguages of technologies
+- 💞️ I’m looking to collaborate on something biggest and new
 - 📫 How to reach me here!
 - 😄 Pronouns: her
 - ⚡ Fun fact: i'm totally lost lol
